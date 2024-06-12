@@ -3,9 +3,6 @@
 
 
 
-
-
-
 <!--
 ## Hi there 👋
 
@@ -31,6 +28,22 @@
 
 ## badges
 #https://github.com/Envoy-VC/awesome-badges
+
+##custom badges
+#https://simpleicons.org/
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring%20boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenJDK-007396?style=flat&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JupyterHub-F37626?style=flat&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black"/>
 
 ## typing animation
 #https://readme-typing-svg.demolab.com/demo/
